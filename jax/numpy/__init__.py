@@ -52,7 +52,7 @@ from jax._src.numpy.lax_numpy import (
     negative, newaxis, nextafter, nonzero, not_equal, number,
     object_, ogrid, ones, ones_like, outer, packbits, pad, percentile,
     pi, piecewise, poly, polyadd, polyder, polyfit, polyint, polymul, polysub, polyval, positive, power,
-    prod, product, promote_types, ptp, quantile,
+    printoptions, prod, product, promote_types, ptp, quantile,
     r_, rad2deg, radians, ravel, ravel_multi_index, real, reciprocal, remainder, repeat, reshape,
     resize, result_type, right_shift, rint, roll, rollaxis, rot90, round, round_, row_stack,
     save, savez, searchsorted, select, set_printoptions, setdiff1d, setxor1d, shape, sign, signbit,

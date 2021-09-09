@@ -301,6 +301,7 @@ Not every function in NumPy is implemented; contributions are welcome!
     polyval
     positive
     power
+    printoptions
     prod
     product
     promote_types
